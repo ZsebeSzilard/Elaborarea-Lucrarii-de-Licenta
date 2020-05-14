@@ -1,0 +1,6 @@
+D:\ISKOLA\UNIVERSITATE\ANUL III\Semestrul II\DEGE\PROGRAM\Concepte din OOP\Concepte din OOP\bin\Debug\Concepte din OOP.exe.config
+D:\ISKOLA\UNIVERSITATE\ANUL III\Semestrul II\DEGE\PROGRAM\Concepte din OOP\Concepte din OOP\bin\Debug\Concepte din OOP.exe
+D:\ISKOLA\UNIVERSITATE\ANUL III\Semestrul II\DEGE\PROGRAM\Concepte din OOP\Concepte din OOP\bin\Debug\Concepte din OOP.pdb
+D:\ISKOLA\UNIVERSITATE\ANUL III\Semestrul II\DEGE\PROGRAM\Concepte din OOP\Concepte din OOP\obj\Debug\Concepte din OOP.csprojAssemblyReference.cache
+D:\ISKOLA\UNIVERSITATE\ANUL III\Semestrul II\DEGE\PROGRAM\Concepte din OOP\Concepte din OOP\obj\Debug\Concepte din OOP.exe
+D:\ISKOLA\UNIVERSITATE\ANUL III\Semestrul II\DEGE\PROGRAM\Concepte din OOP\Concepte din OOP\obj\Debug\Concepte din OOP.pdb
